@@ -1,0 +1,7 @@
+to build dokka:
+1) build project with mvn
+2) generate javaDoc manualy
+3) deploy
+
+or
+// clean install dokka:javadocJar deploy

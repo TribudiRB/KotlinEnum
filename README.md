@@ -35,7 +35,7 @@ fun getCurrencyFrom(sign: String) : Money = Money::class get { sign }
 #### Maven
 ```xml
 <dependency>
-  <groupId>com.github.robbuczek</groupId>
+  <groupId>com.github.tribudirb</groupId>
   <artifactId>kotlin-enum-helper</artifactId>
   <version>1.0.0</version>
 </dependency>
