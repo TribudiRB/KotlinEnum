@@ -41,6 +41,11 @@ fun getCurrencyFrom(sign: String) : Money = Money::class get { sign }
 </dependency>
 ```
 
+#### Gradle
+```
+compile group: 'com.github.tribudirb', name: 'kotlin-enum-helper', version: '1.0.0'
+```
+
 Or alternatively, download jar from [github](https://github.com/TribudiRB/KotlinEnum/releases).
 
 ### Contributors
